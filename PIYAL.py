@@ -1,7 +1,7 @@
 import os
 import time
 os.system("clear")
-print("  ==> \033[1;32mTHIS TOOLS DECODE BY (RDX) ")
+print("  ==> \033[1;32mTHIS TOOLS DECODE BY (TONU-143) ")
 time.sleep(5)
 
 import os
